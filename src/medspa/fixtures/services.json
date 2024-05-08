@@ -1,0 +1,67 @@
+[
+{
+    "model": "medspa.service",
+    "pk": 1,
+    "fields": {
+        "medspa": 1,
+        "name": "Daxxify",
+        "description": "",
+        "price": "300.00",
+        "duration": "00:45:00",
+        "created": "2024-05-08T00:45:43.333Z",
+        "modified": "2024-05-08T00:45:43.333Z"
+    }
+},
+{
+    "model": "medspa.service",
+    "pk": 2,
+    "fields": {
+        "medspa": 1,
+        "name": "Lip Flip",
+        "description": "",
+        "price": "150.00",
+        "duration": "00:00:30",
+        "created": "2024-05-08T00:46:35.407Z",
+        "modified": "2024-05-08T00:46:35.407Z"
+    }
+},
+{
+    "model": "medspa.service",
+    "pk": 3,
+    "fields": {
+        "medspa": 2,
+        "name": "Neurotoxin",
+        "description": "",
+        "price": "250.00",
+        "duration": "01:00:00",
+        "created": "2024-05-08T00:48:00.824Z",
+        "modified": "2024-05-08T00:48:07.811Z"
+    }
+},
+{
+    "model": "medspa.service",
+    "pk": 4,
+    "fields": {
+        "medspa": 2,
+        "name": "Peel",
+        "description": "",
+        "price": "500.00",
+        "duration": "00:30:00",
+        "created": "2024-05-08T00:48:24.716Z",
+        "modified": "2024-05-08T00:48:24.716Z"
+    }
+},
+{
+    "model": "medspa.service",
+    "pk": 5,
+    "fields": {
+        "medspa": 2,
+        "name": "Microneedling",
+        "description": "",
+        "price": "50.00",
+        "duration": "00:20:00",
+        "created": "2024-05-08T00:51:00.682Z",
+        "modified": "2024-05-08T00:51:00.682Z"
+    }
+}
+]

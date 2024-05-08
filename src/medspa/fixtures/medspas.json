@@ -1,0 +1,26 @@
+[
+{
+    "model": "medspa.medspa",
+    "pk": 1,
+    "fields": {
+        "name": "Health & Care",
+        "address": "123 Main Street, Mendocino, CA 95460",
+        "phone_number": "(707) 555-7727",
+        "email_address": "hr@healthandcare.com",
+        "created": "2024-05-08T00:43:40.495Z",
+        "modified": "2024-05-08T00:43:40.495Z"
+    }
+},
+{
+    "model": "medspa.medspa",
+    "pk": 2,
+    "fields": {
+        "name": "Aesthetics Clinic",
+        "address": "789 Elm Street, Austin, TX 78704",
+        "phone_number": "(512) 555-3210",
+        "email_address": null,
+        "created": "2024-05-08T00:44:27.862Z",
+        "modified": "2024-05-08T00:50:33.567Z"
+    }
+}
+]
